@@ -3,7 +3,7 @@
 </div>  
 
 # Estructuras de datos
-- Recursividad
+- Programacion recursiva
 
 ## Practicos y parciales en pyhton
 2do Cuatrimestre 2024
