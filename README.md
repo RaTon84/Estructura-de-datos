@@ -3,6 +3,7 @@
 </div>  
 
 # Estructuras de datos
+- Python
 - Programacion recursiva
 
 ## Practicos y parciales en pyhton
