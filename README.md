@@ -5,6 +5,8 @@
 # Estructuras de datos
 - Python
 - Programacion recursiva
+- Vectores, matrices
+- Pilas, colas
 
 ## Practicos y parciales en pyhton
 2do Cuatrimestre 2024
