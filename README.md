@@ -8,6 +8,7 @@
 - Vectores, matrices
 - Pilas, colas
 - Diccionarios
+- Listas enlazadas
 
 ## Practicos y parciales en pyhton
 2do Cuatrimestre 2024
