@@ -9,6 +9,7 @@
 - Pilas, colas
 - Diccionarios
 - Listas enlazadas
+- Listas enlazadas Recursivas
 
 ## Practicos y parciales en pyhton
 2do Cuatrimestre 2024
