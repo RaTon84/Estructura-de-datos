@@ -10,6 +10,7 @@
 - Diccionarios
 - Listas enlazadas
 - Listas enlazadas Recursivas
+- Arboles binarios (recursividad)
 
 ## Practicos y parciales en pyhton
 2do Cuatrimestre 2024
